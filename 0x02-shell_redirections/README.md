@@ -1,1 +1,1 @@
-translating
+removing letters
