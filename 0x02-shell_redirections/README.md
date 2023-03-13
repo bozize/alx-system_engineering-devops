@@ -1,1 +1,1 @@
-finding pattern
+pattern
