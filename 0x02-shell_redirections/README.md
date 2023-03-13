@@ -1,1 +1,1 @@
-mismatch pattern
+letters only
