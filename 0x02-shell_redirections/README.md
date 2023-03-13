@@ -1,1 +1,1 @@
-pattern after context
+mismatch pattern
