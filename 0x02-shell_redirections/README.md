@@ -1,1 +1,1 @@
-print hello world
+script to display smiley
