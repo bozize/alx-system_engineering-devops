@@ -1,1 +1,1 @@
-uniq
+finding pattern
