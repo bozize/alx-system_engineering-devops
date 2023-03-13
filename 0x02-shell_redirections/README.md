@@ -1,1 +1,1 @@
-display first 10 lines
+third linr display
