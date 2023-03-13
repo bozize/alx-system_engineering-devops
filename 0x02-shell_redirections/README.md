@@ -1,1 +1,1 @@
-script to display smiley
+display file conten
