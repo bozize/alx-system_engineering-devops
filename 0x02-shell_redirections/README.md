@@ -1,1 +1,1 @@
-third linr display
+removing spcial characters
