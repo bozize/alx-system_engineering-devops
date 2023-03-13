@@ -1,1 +1,1 @@
-duplicate
+dleting spefied files
