@@ -1,1 +1,1 @@
-all variables and functions
+local variable
