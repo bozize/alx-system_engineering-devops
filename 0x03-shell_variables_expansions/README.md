@@ -1,1 +1,1 @@
-binary
+all possible
